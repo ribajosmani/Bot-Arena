@@ -5,9 +5,7 @@
 
 ## 🖼️ Preview
 
-![BotArena UI](./assets/preview.png)
-
-> 💡 *Ku dar screenshot-kaaga repo-ga gudaha folder: `assets/preview.png` si uu u muuqdo sida sawirka aad soo dirtay.*
+<img width="1907" height="859" alt="image" src="https://github.com/user-attachments/assets/c69f0e90-2940-452f-99dd-d2b35f60a98a" />
 
 
 ## 🚀 Overview
@@ -61,11 +59,9 @@ Each bot competes for:
    * Logs
    * Live stats
 
----
 
 ## 🏗️ Project Structure
 
-```
 Bot-Arena/
 ├── client/        # Frontend (UI Dashboard)
 ├── server/        # Backend (Battle Engine)
@@ -73,9 +69,7 @@ Bot-Arena/
 ├── drizzle/       # Database
 ├── assets/        # Images (add preview.png here)
 └── README.md
-```
 
----
 
 ## 🛠️ Tech Stack
 
@@ -93,7 +87,6 @@ Bot-Arena/
 
 * PostgreSQL (Drizzle ORM)
 
-
 ## 🖥️ Installation
 
 ```bash
@@ -109,7 +102,6 @@ npm run dev
 * 📜 Logs update live
 * 🏆 Ranking auto-refresh
 
----
 
 ## 🎯 Use Cases
 
@@ -117,7 +109,6 @@ npm run dev
 * Game Development
 * Cybersecurity Concepts
 * Autonomous Agent Research
-
 
 ## 🔮 Future Roadmap
 
@@ -127,15 +118,11 @@ npm run dev
 * 🌍 Multiplayer AI system
 * 🧩 Plugin-based agents
 
----
-
 ## 👨‍💻 Author
 
 **Jabir (Ribaj Osmani)**
 Software Engineer | AI Systems Builder
 📍 Mogadishu, Somalia
-
----
 
 ## ⭐ Support
 
@@ -145,13 +132,9 @@ If you like this project:
 * 🍴 Fork it
 * 🤝 Contribute
 
----
-
 ## ⚠️ Disclaimer
 
 This is a **simulation system only**.
 No real hacking is performed.
-
----
 
 🟢 **BOT ARENA — Where AI Agents Fight for Power**
