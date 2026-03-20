@@ -29,7 +29,7 @@ const AGENT_NAMES = [
   "Reaper", "Wraith", "Sentinel", "Vanguard", "Titan", "Phoenix", "Demon", "Angel",
   "Shadow", "Midnight", "Dusk", "Dawn", "Twilight", "Eclipse", "Nova", "Supernova",
   "Quantum", "Photon", "Electron", "Proton", "Neutron", "Atom", "Molecule", "Crystal",
-  "Apex", "Zenith", "Nadir", "Vertex", "Matrix", "Prism", "Spectrum", "Frequency",
+  "Apex", "Zenith", "Gedi", "Vertex", "Matrix", "Prism", "Spectrum", "Frequency",
   "Byte", "Bit", "Code", "Logic", "Binary", "Hex", "Octal", "ASCII",
   "Virus", "Malware", "Trojan", "Worm", "Ransomware", "Spyware", "Adware", "Rootkit",
   "Hacker", "Cracker", "Breaker", "Slasher", "Slicer", "Cutter", "Ripper", "Shredder",
